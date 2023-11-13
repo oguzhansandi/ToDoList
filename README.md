@@ -1,3 +1,5 @@
+![ToDoList 1](https://github.com/oguzhansandi/ToDoList/assets/68343552/2db80dca-5e82-4123-bd96-73aa250f8015) | ![ToDoList 2](https://github.com/oguzhansandi/ToDoList/assets/68343552/55de494c-b31e-4688-95b4-fc9d945db7ab) | ![ToDoList 3](https://github.com/oguzhansandi/ToDoList/assets/68343552/e9fcdd93-9821-4d46-9206-270df0f3f07f) |
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
